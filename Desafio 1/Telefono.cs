@@ -47,6 +47,7 @@ namespace Desafio_1
         }
 
         //metodo o funcion
+        //Primer cambio gitHub
         public int verificacion(ref int n)
         {
             if (n == 1 || n == 2 || n == 3)
